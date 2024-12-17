@@ -13,6 +13,7 @@ nupkg/
 
 # Visual Studio
 .vs/
+/.vs/
 
 # Fleet
 .fleet/
@@ -33,8 +34,8 @@ nupkg/
 [Rr]eleases/
 x64/
 x86/
-bin/
-obj/
+/bin/
+/obj/
 build/
 bld/
 [Bb]in/
