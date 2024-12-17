@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\poc.trading.api.props" />
+</Project>
